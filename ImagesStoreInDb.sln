@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagesStoreInDb", "ImagesStoreInDb\ImagesStoreInDb.csproj", "{4EA87804-DAB8-4F6A-96AD-48F075EA9A01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA87804-DAB8-4F6A-96AD-48F075EA9A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA87804-DAB8-4F6A-96AD-48F075EA9A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA87804-DAB8-4F6A-96AD-48F075EA9A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA87804-DAB8-4F6A-96AD-48F075EA9A01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0225E62-73C2-44F7-B3CD-2D2BEB6285F1}
+	EndGlobalSection
+EndGlobal
